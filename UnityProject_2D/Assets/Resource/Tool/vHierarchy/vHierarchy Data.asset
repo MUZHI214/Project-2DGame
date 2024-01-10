@@ -21,7 +21,7 @@ MonoBehaviour:
         keys:
         - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-519420028-0
         - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-146983247-0
-        - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-936727775-0
+        - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-5750365879629799073-5750365878693202558
         - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-2136556940-0
         - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-1043022201-0
         - GlobalObjectId_V1-2-8c9cfa26abfee488c85f1582747f6a02-1704398762-0
@@ -42,50 +42,12 @@ MonoBehaviour:
         - iColor: 0
           icon: AudioClip Icon
       goDatasByInstanceId:
-        keys: be7e0000ac7e0000e07e0000367f0000f27e00001e7f00008ae2000076e20000dae200009ee30000eee200005ee3000006f80000f2f700005af800002ef900006ef80000eaf800009a0b0100820b0100fa0b0100d80c01000e0c0100940c01005ecafeff
+        keys: d47e0000bc7e0000787f0000047f0000447f0000547f0000a8faffff
         values:
         - iColor: 0
           icon: Camera Icon
         - iColor: 0
           icon: MeshCollider Icon
-        - iColor: 0
-          icon: AvatarMask On Icon
-        - iColor: 0
-          icon: Favorite
-        - iColor: 0
-          icon: ScriptableObject Icon
-        - iColor: 0
-          icon: 
-        - iColor: 0
-          icon: Camera Icon
-        - iColor: 0
-          icon: MeshCollider Icon
-        - iColor: 0
-          icon: AvatarMask On Icon
-        - iColor: 0
-          icon: Favorite
-        - iColor: 0
-          icon: ScriptableObject Icon
-        - iColor: 0
-          icon: 
-        - iColor: 0
-          icon: Camera Icon
-        - iColor: 0
-          icon: MeshCollider Icon
-        - iColor: 0
-          icon: AvatarMask On Icon
-        - iColor: 0
-          icon: Favorite
-        - iColor: 0
-          icon: ScriptableObject Icon
-        - iColor: 0
-          icon: 
-        - iColor: 0
-          icon: Camera Icon
-        - iColor: 0
-          icon: MeshCollider Icon
-        - iColor: 0
-          icon: AvatarMask On Icon
         - iColor: 0
           icon: Favorite
         - iColor: 0
@@ -94,6 +56,8 @@ MonoBehaviour:
           icon: 
         - iColor: 0
           icon: AudioClip Icon
+        - iColor: 0
+          icon: AvatarMask On Icon
     - goDatasByGlobalId:
         keys: []
         values: []
